@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/beans/Livre.java=UTF-8
+encoding//src/beans/Panier.java=UTF-8
+encoding//src/beans/User.java=UTF-8
+encoding//src/ws/Gestion.java=UTF-8
+encoding//src/ws/GestionService.java=UTF-8
+encoding//src/ws/GestionServiceLocator.java=UTF-8
+encoding//src/ws/GestionSoapBindingStub.java=UTF-8
